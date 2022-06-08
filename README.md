@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJs, Typescript, Redux, Firebase**
 
-- 📫 How to reach me **simrangangwwani3107@gmail.com**
+- 📫 How to reach me **simrangangwani3107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
