@@ -20,7 +20,7 @@
 <a href="https://twitter.com/simrangangwani3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simrangangwani3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simran-gangwani-b93a441b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simran-gangwani-b93a441b2" height="30" width="40" /></a>
 <a href="https://codesandbox.com/simran.65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="simran.65" height="30" width="40" /></a>
-<a href="https://www.instagram.com/simran_wb65/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simran_wb65" height="30" width="40" /></a>
+<a href="https://www.instagram.com/freelancewithsimran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simran_wb65" height="30" width="40" /></a>
 <a href="https://hashnode.com/@simrancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@simrancodes" height="30" width="40" /></a>
 </p>
 
