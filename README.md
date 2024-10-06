@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/simrangangwani3" target="blank"><img src="https://img.shields.io/twitter/follow/simrangangwani3?logo=twitter&style=for-the-badge" alt="simrangangwani3" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Typescript & NextJS**
 
-- 👨‍💻 All of my projects are available at [https://simran-gangwani.netlify.app/](https://simran-gangwani.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://simrangangwani.netlify.app/](https://simrangangwani.netlify.app/)
 
 - 📝 I regularly write articles on [https://simrancodes.hashnode.dev/](https://simrancodes.hashnode.dev/)
 
 - 💬 Ask me about **ReactJs, Typescript, Redux, Firebase**
 
-- 📫 How to reach me **simrangangwani3107@gmail.com**
+- 📫 How to reach me **simrangangwani61@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
